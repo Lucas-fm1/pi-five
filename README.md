@@ -7,7 +7,7 @@ Then, when you evaluate the sine of the reciprocal, you'll get, in this case:
 
   sin(1/5555) = 3.141906844269051e-06
   
-Indeed, it is not pi, it's "pi like" because of the scientific notation. However, the significant number in this result is pretty close, since pi is 3.14159265359 (approximately). And it is using just four digits. 
+Indeed, it is not pi, it's "pi like" because of the scientific notation. However, the significant numbers in this example already gives a reasonably good result, since pi is 3.14159265359 (approximately), and it used just four digits. 
 
 The reason for this curious fact is explainded in this amazing Numberphile video:
 https://www.youtube.com/watch?v=IMY2_yzDm9I&t=827s 
